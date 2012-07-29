@@ -50,8 +50,8 @@ function MM_swapImage() { //v3.0
     <div id="centre">
       <div id="colGaucheGalerie">
         <ul type="square">
-          <li class="sousMenu"><a href="galerie/dessin.html" class="sousMenu">dessin</a></li>
-          <li class="sousMenu"><a href="galerie/lavis.html" class="sousMenu">lavis</a></li>
+          <li class="sousMenu"><a href="dessin.html" class="sousMenu">dessin</a></li>
+          <li class="sousMenu"><a href="lavis.html" class="sousMenu">lavis</a></li>
           <li class="sousMenu on"><a href="galerie.html" class="sousMenu on">peinture</a></li>
         </ul>
       </div>
@@ -84,7 +84,7 @@ function MM_swapImage() { //v3.0
     <!--
     jQuery(document).ready(function () {
       Galleria.loadTheme('/images/galleria/themes/classic/galleria.classic.min.js');
-      Galleria.run('.galleria', {dataSource: peintures});
+      Galleria.run('.galleria', {dataSource: peintures, showCounter: false, showImagenav: false, lightbox: true,});
       return false;
     });
     //-->
