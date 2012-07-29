@@ -1,4 +1,4 @@
-var peintures = [
+var data = [
   {
     image: '/images/peintures/2012/001_P1100648.jpg',
     thumb: '/images/peintures/2012/001_P1100648s.jpg',

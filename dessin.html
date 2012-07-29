@@ -14,6 +14,7 @@ body {
 -->
 </style>
 <link href="../css/michelcerfont.css" rel="stylesheet" type="text/css" />
+<link href="css/galleria.classic.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript">
 <!--
 function MM_preloadImages() { //v3.0
@@ -54,8 +55,7 @@ function MM_swapImage() { //v3.0
           <li class="sousMenu"><a href="galerie.html" class="sousMenu">peinture</a></li>
         </ul>
       </div>
-      <div id="colDroiteGalerie">
-      </div>
+      <div id="colDroiteGalerie" class="galleria"></div>
     </div>
   </div>
   <div id="menusbas">
@@ -73,5 +73,17 @@ function MM_swapImage() { //v3.0
     <a href="liens.html"><img src="images/menu_liens.gif" alt="" width="49" height="13" border="0" id="liens" onmouseover="MM_swapImage('liens','','images/menu_liens_on.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
   </div>
 <!-- End Save for Web Slices -->
+  <script type="text/javascript" src="/scripts/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="/scripts/galleria-1.2.7.min.js"></script>
+  <script type="text/javascript" src="/scripts/dessins.js"></script>
+  <script type="text/javascript">
+    <!--
+    jQuery(document).ready(function () {
+      Galleria.loadTheme('/images/galleria/themes/classic/galleria.classic.min.js');
+      Galleria.run('.galleria', {dataSource: data, showCounter: false, showImagenav: false, lightbox: true,});
+      return false;
+    });
+    //-->
+  </script>
 </body>
 </html>

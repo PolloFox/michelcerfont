@@ -42,11 +42,19 @@
 .galleria-thumbnails .galleria-image {
     height: 40px;
     width: 60px;
-    background: #000;
+    background: #9C9793;
     margin: 0 5px 0 0;
-    border: 1px solid #000;
+    border: 1px solid #9C9793;
     float: left;
     cursor: pointer;
+}
+.galleria-image.active {
+    border: 4px solid #cdcbc9;
+    margin-top:-3px;
+}
+.galleria-thumbnails {
+  height: 40px;
+  padding-top:3px;
 }
 .galleria-counter {
     position: absolute;
@@ -181,7 +189,7 @@
     z-index: 3;
     opacity: .8;
     filter: alpha(opacity=80);
-    margin-top:40px;
+    margin-top:43px;
 }
 .galleria-thumb-nav-right {
     background-position: -850px 5px;
