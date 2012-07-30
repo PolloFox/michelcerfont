@@ -95,7 +95,61 @@ var data = [
     big: '/images/peintures/2011/010_P1070188b.jpg',
     description: 'd&eacute;tail',
   },
-/*  {
+  {
+    image: '/images/peintures/2011/011_P1070190.jpg',
+    thumb: '/images/peintures/2011/011_P1070190s.jpg',
+    big: '/images/peintures/2011/011_P1070190b.jpg',
+    description: '2011, peinture acrylique sur carton, 30 x 30 x 2,5 cm',
+  },
+  {
+    image: '/images/peintures/2011/012_P1090351.jpg',
+    thumb: '/images/peintures/2011/012_P1090351s.jpg',
+    big: '/images/peintures/2011/012_P1090351b.jpg',
+    description: '2011, peinture acrylique sur carton, 40 x 40 x 2,5 cm',
+  },
+  {
+    image: '/images/peintures/2011/013_P1090359.jpg',
+    thumb: '/images/peintures/2011/013_P1090359s.jpg',
+    big: '/images/peintures/2011/013_P1090359b.jpg',
+    description: '2011, peinture acrylique sur carton, 24 x 35 x 2,5 cm',
+  },
+  {
+    image: '/images/peintures/2011/014_P1070352.jpg',
+    thumb: '/images/peintures/2011/014_P1070352s.jpg',
+    big: '/images/peintures/2011/014_P1070352b.jpg',
+    description: '2011, technique mixte, 30 x 30 x 3 cm',
+  },
+  {
+    image: '/images/peintures/2011/015_P1070932.jpg',
+    thumb: '/images/peintures/2011/015_P1070932s.jpg',
+    big: '/images/peintures/2011/015_P1070932b.jpg',
+    description: '2011, peinture acrylique sur carton, diam&egrave;tre 31 x 2,5 cm',
+  },
+  {
+    image: '/images/peintures/2011/016_P1070957.jpg',
+    thumb: '/images/peintures/2011/016_P1070957s.jpg',
+    big: '/images/peintures/2011/016_P1070957b.jpg',
+    description: 'd&eacute;tail',
+  },
+  {
+    image: '/images/peintures/2011/017_P1090416.jpg',
+    thumb: '/images/peintures/2011/017_P1090416s.jpg',
+    big: '/images/peintures/2011/017_P1090416b.jpg',
+    description: '2011, technique mixte, 30 x 30 x 2,5 cm',
+  },
+  {
+    image: '/images/peintures/2011/018_P1090413.jpg',
+    thumb: '/images/peintures/2011/018_P1090413s.jpg',
+    big: '/images/peintures/2011/018_P1090413b.jpg',
+    description: '2011, technique mixte, 30 x 30 x 2,5 cm',
+  },
+  {
+    image: '/images/peintures/2011/019_P1090377.jpg',
+    thumb: '/images/peintures/2011/019_P1090377s.jpg',
+    big: '/images/peintures/2011/019_P1090377b.jpg',
+    description: '2011, technique mixte, 15 x 15 cm',
+  },
+  /*  {
     image: '/images/peintures/2011/.jpg',
     thumb: '/images/peintures/2011/s.jpg',
     big: '/images/peintures/2011/b.jpg',
