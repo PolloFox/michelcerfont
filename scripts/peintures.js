@@ -149,11 +149,52 @@ var data = [
     big: '/images/peintures/2011/019_P1090377b.jpg',
     description: '2011, technique mixte, 15 x 15 cm',
   },
+  {
+    image: '/images/peintures/2010/001_P1090733.jpg',
+    thumb: '/images/peintures/2010/001_P1090733s.jpg',
+    big: '/images/peintures/2010/001_P1090733b.jpg',
+    description: '2010, peinture acrylique sur carton, 60 x 60 cm',
+  },
+  {
+    image: '/images/peintures/2008/001_P1050137.jpg',
+    thumb: '/images/peintures/2008/001_P1050137s.jpg',
+    big: '/images/peintures/2008/001_P1050137b.jpg',
+    description: '2008, peinture acrylique sur carton, 30 x 100 cm',
+  },
+  {
+    image: '/images/peintures/2006/001_P1090560.jpg',
+    thumb: '/images/peintures/2006/001_P1090560s.jpg',
+    big: '/images/peintures/2006/001_P1090560b.jpg',
+    description: '2006, peinture acrylique sur carton, 50 x 50 cm',
+  },
+  {
+    image: '/images/peintures/2006/002_P1090572.jpg',
+    thumb: '/images/peintures/2006/002_P1090572s.jpg',
+    big: '/images/peintures/2006/002_P1090572b.jpg',
+    description: '2006, peinture acrylique sur carton, 50 x 50 cm',
+  },
+  {
+    image: '/images/peintures/2006/003_P1090561.jpg',
+    thumb: '/images/peintures/2006/003_P1090561s.jpg',
+    big: '/images/peintures/2006/003_P1090561b.jpg',
+    description: '2006, peinture acrylique sur carton, 50 x 50 cm',
+  },
+  {
+    image: '/images/peintures/2006/004_P1090567.jpg',
+    thumb: '/images/peintures/2006/004_P1090567s.jpg',
+    big: '/images/peintures/2006/004_P1090567b.jpg',
+    description: '2006, peinture acrylique sur carton, 50 x 50 cm',
+  },
+  {
+    image: '/images/peintures/2006/005_P1090742.jpg',
+    thumb: '/images/peintures/2006/005_P1090742s.jpg',
+    big: '/images/peintures/2006/005_P1090742b.jpg',
+    description: '2006, peinture acrylique sur carton, 50 x 50 cm',
+  },
   /*  {
     image: '/images/peintures/2011/.jpg',
     thumb: '/images/peintures/2011/s.jpg',
     big: '/images/peintures/2011/b.jpg',
-    title: '',
     description: '',
   },*/
 ];

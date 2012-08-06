@@ -79,8 +79,25 @@ function MM_swapImage() { //v3.0
   <script type="text/javascript">
     <!--
     jQuery(document).ready(function () {
+      var current_image_index = 0;
       Galleria.loadTheme('/images/galleria/themes/classic/galleria.classic.min.js');
       Galleria.run('.galleria', {dataSource: data, showCounter: false, showImagenav: false, lightbox: true,});
+      Galleria.ready(function(){
+        this.bind('image', function(e) {
+          //           Galleria.log(e) // the event object may contain custom objects, in this case the main image
+          //           Galleria.log(e.imageTarget) // the current image
+          $(e.imageTarget).hover(
+            this.proxy(function() {
+              jQuery("div.galleria-image").css("background-position", "100% 87%");
+              jQuery("div.galleria-image").css("cursor", "pointer");
+            }),
+            this.proxy(function() {
+              jQuery("div.galleria-image").css("background-position", "-100px");
+              jQuery("div.galleria-image").css("cursor", "normal");
+            })
+          );
+        });
+      });
       return false;
     });
     //-->

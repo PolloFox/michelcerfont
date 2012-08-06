@@ -233,3 +233,9 @@
     background-image: url('/images/galleria/themes/classic/classic-map.png');
     background-repeat: no-repeat;
 }
+
+.galleria-image {
+    background-image: url('/images/fullscreen.png');
+    background-repeat: no-repeat;
+    background-position:-100px;
+}
