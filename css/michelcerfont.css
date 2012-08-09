@@ -146,9 +146,9 @@
 	width: 506px;
 }
 #license {
-        position:absolute;
-        margin-top:-152px;
-        margin-left:896px;
+        position:fixed;
+        bottom:2px;
+        right:2px;
 }
 #license img {
         opacity:0.5;
