@@ -1,5 +1,77 @@
 var data = [
   {
+    image: '/images/peintures/2012/018_P1120424.jpg',
+    thumb: '/images/peintures/2012/018_P1120424s.jpg',
+    big: '/images/peintures/2012/018_P1120424b.jpg',
+    description: '2012, acrylique sur carton, 30 x 30 x 10 cm',
+  },
+  {
+    image: '/images/peintures/2012/017_P1120438.jpg',
+    thumb: '/images/peintures/2012/017_P1120438s.jpg',
+    big: '/images/peintures/2012/017_P1120438b.jpg',
+    description: '2012, acrylique sur carton, 35 x 20 cm',
+  },
+  {
+    image: '/images/peintures/2012/016_P1120277.jpg',
+    thumb: '/images/peintures/2012/016_P1120277s.jpg',
+    big: '/images/peintures/2012/016_P1120277b.jpg',
+    description: '2012, acrylique sur carton, 35 x 20 cm',
+  },
+  {
+    image: '/images/peintures/2012/015_P1120274.jpg',
+    thumb: '/images/peintures/2012/015_P1120274s.jpg',
+    big: '/images/peintures/2012/015_P1120274b.jpg',
+    description: '2012, acrylique sur carton, 35 x 20 cm',
+  },
+  {
+    image: '/images/peintures/2012/014_P1120440.jpg',
+    thumb: '/images/peintures/2012/014_P1120440s.jpg',
+    big: '/images/peintures/2012/014_P1120440b.jpg',
+    description: '2012, exposition à la Médiatine',
+  },
+  {
+    image: '/images/peintures/2012/013_P1120436.jpg',
+    thumb: '/images/peintures/2012/013_P1120436s.jpg',
+    big: '/images/peintures/2012/013_P1120436b.jpg',
+    description: '2012, exposition à la Médiatine',
+  },
+  {
+    image: '/images/peintures/2012/012_P1120419.jpg',
+    thumb: '/images/peintures/2012/012_P1120419s.jpg',
+    big: '/images/peintures/2012/012_P1120419b.jpg',
+    description: '2012, acrylique sur carton, 40 x 40 x 2 cm',
+  },
+  {
+    image: '/images/peintures/2012/011_P1120413.jpg',
+    thumb: '/images/peintures/2012/011_P1120413s.jpg',
+    big: '/images/peintures/2012/011_P1120413b.jpg',
+    description: '2012, acrylique sur carton, 40 x 40 x 2 cm',
+  },
+  {
+    image: '/images/peintures/2012/010_P1120422.jpg',
+    thumb: '/images/peintures/2012/010_P1120422s.jpg',
+    big: '/images/peintures/2012/010_P1120422b.jpg',
+    description: '2012, acrylique sur carton, 20 x 20 cm',
+  },
+  {
+    image: '/images/peintures/2012/009_P1120400.jpg',
+    thumb: '/images/peintures/2012/009_P1120400s.jpg',
+    big: '/images/peintures/2012/009_P1120400b.jpg',
+    description: '2012, acrylique sur carton, 20 x 20 cm',
+  },
+  {
+    image: '/images/peintures/2012/008_P1120397.jpg',
+    thumb: '/images/peintures/2012/008_P1120397s.jpg',
+    big: '/images/peintures/2012/008_P1120397b.jpg',
+    description: '2012, acrylique sur carton, 20 x 20 cm',
+  },
+  {
+    image: '/images/peintures/2012/007_P1120293.jpg',
+    thumb: '/images/peintures/2012/007_P1120293s.jpg',
+    big: '/images/peintures/2012/007_P1120293b.jpg',
+    description: '2012, acrylique sur carton, 15 x 15 cm',
+  },
+  {
     image: '/images/peintures/2012/006_P1100648.jpg',
     thumb: '/images/peintures/2012/006_P1100648s.jpg',
     big: '/images/peintures/2012/006_P1100648b.jpg',
@@ -10,12 +82,6 @@ var data = [
     thumb: '/images/peintures/2012/005_P1100666s.jpg',
     big: '/images/peintures/2012/005_P1100666b.jpg',
     description: '2012, technique mixte, 37 x 40 cm',
-  },
-  {
-    image: '/images/peintures/2012/004_P1100817.jpg',
-    thumb: '/images/peintures/2012/004_P1100817s.jpg',
-    big: '/images/peintures/2012/004_P1100817b.jpg',
-    description: '2012, technique mixte, 40,5 x 41,5 cm',
   },
   {
     image: '/images/peintures/2012/003_P1100130.jpg',
@@ -45,18 +111,6 @@ var data = [
     image: '/images/peintures/2011/002_P1090656.jpg',
     thumb: '/images/peintures/2011/002_P1090656s.jpg',
     big: '/images/peintures/2011/002_P1090656b.jpg',
-    description: '2011, peinture acrylique sur carton, 30 x 30 x 11 cm',
-  },
-  {
-    image: '/images/peintures/2011/003_P1090629.jpg',
-    thumb: '/images/peintures/2011/003_P1090629s.jpg',
-    big: '/images/peintures/2011/003_P1090629b.jpg',
-    description: '2011, peinture acrylique sur carton, 30 x 30 x 11 cm',
-  },
-  {
-    image: '/images/peintures/2011/004_P1090640.jpg',
-    thumb: '/images/peintures/2011/004_P1090640s.jpg',
-    big: '/images/peintures/2011/004_P1090640b.jpg',
     description: '2011, peinture acrylique sur carton, 30 x 30 x 11 cm',
   },
   {
@@ -132,28 +186,10 @@ var data = [
     description: 'd&eacute;tail',
   },
   {
-    image: '/images/peintures/2011/017_P1090416.jpg',
-    thumb: '/images/peintures/2011/017_P1090416s.jpg',
-    big: '/images/peintures/2011/017_P1090416b.jpg',
-    description: '2011, technique mixte, 30 x 30 x 2,5 cm',
-  },
-  {
-    image: '/images/peintures/2011/018_P1090413.jpg',
-    thumb: '/images/peintures/2011/018_P1090413s.jpg',
-    big: '/images/peintures/2011/018_P1090413b.jpg',
-    description: '2011, technique mixte, 30 x 30 x 2,5 cm',
-  },
-  {
     image: '/images/peintures/2011/019_P1090377.jpg',
     thumb: '/images/peintures/2011/019_P1090377s.jpg',
     big: '/images/peintures/2011/019_P1090377b.jpg',
     description: '2011, technique mixte, 15 x 15 cm',
-  },
-  {
-    image: '/images/peintures/2010/001_P1090733.jpg',
-    thumb: '/images/peintures/2010/001_P1090733s.jpg',
-    big: '/images/peintures/2010/001_P1090733b.jpg',
-    description: '2010, peinture acrylique sur carton, 60 x 60 cm',
   },
   {
     image: '/images/peintures/2008/001_P1050137.jpg',
@@ -180,12 +216,6 @@ var data = [
     description: '2006, peinture acrylique sur carton, 50 x 50 cm',
   },
   {
-    image: '/images/peintures/2006/004_P1090567.jpg',
-    thumb: '/images/peintures/2006/004_P1090567s.jpg',
-    big: '/images/peintures/2006/004_P1090567b.jpg',
-    description: '2006, peinture acrylique sur carton, 50 x 50 cm',
-  },
-  {
     image: '/images/peintures/2006/005_P1090742.jpg',
     thumb: '/images/peintures/2006/005_P1090742s.jpg',
     big: '/images/peintures/2006/005_P1090742b.jpg',
@@ -208,12 +238,6 @@ var data = [
     thumb: '/images/peintures/2004/P1090615s.jpg',
     big: '/images/peintures/2004/P1090615b.jpg',
     description: '2004, peinture acrylique sur carton, 30 x 30 cm',
-  },
-  {
-    image: '/images/peintures/2004/P1090556.jpg',
-    thumb: '/images/peintures/2004/P1090556s.jpg',
-    big: '/images/peintures/2004/P1090556b.jpg',
-    description: '2004, peinture acrylique sur carton, 60 x 60 cm',
   },
   {
     image: '/images/peintures/2004/P1090598.jpg',
@@ -274,12 +298,6 @@ var data = [
     thumb: '/images/peintures/1996/P1050146s.jpg',
     big: '/images/peintures/1996/P1050146b.jpg',
     description: '1996, peinture acrylique sur carton, 48 x 70 cm',
-  },
-  {
-    image: '/images/peintures/1996/P1050156.jpg',
-    thumb: '/images/peintures/1996/P1050156s.jpg',
-    big: '/images/peintures/1996/P1050156b.jpg',
-    description: '1996, peinture acrylique sur carton, 35 x 70 cm',
   },
   {
     image: '/images/peintures/1994/P1050165.jpg',
