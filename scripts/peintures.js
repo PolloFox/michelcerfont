@@ -1,5 +1,35 @@
 var data = [
   {
+    image: '/images/peintures/2013/005_6P1140273.jpg',
+    thumb: '/images/peintures/2013/005_6P1140273s.jpg',
+    big: '/images/peintures/2013/005_6P1140273b.jpg',
+    description: '2013, technique mixte, 56 x 75 cm',
+  },
+  {
+    image: '/images/peintures/2013/004_5P1140258.jpg',
+    thumb: '/images/peintures/2013/004_5P1140258s.jpg',
+    big: '/images/peintures/2013/004_5P1140258b.jpg',
+    description: '2013, technique mixte, 43 x 42 x2,5 cm',
+  },
+  {
+    image: '/images/peintures/2013/003_3P1140135.jpg',
+    thumb: '/images/peintures/2013/003_3P1140135s.jpg',
+    big: '/images/peintures/2013/003_3P1140135b.jpg',
+    description: '2013, technique mixte, 18 x 18 cm',
+  },
+  {
+    image: '/images/peintures/2013/002_2P1140366.jpg',
+    thumb: '/images/peintures/2013/002_2P1140366s.jpg',
+    big: '/images/peintures/2013/002_2P1140366b.jpg',
+    description: '2013, technique mixte, 18 x 18 cm',
+  },
+  {
+    image: '/images/peintures/2013/001_1P1140120.jpg',
+    thumb: '/images/peintures/2013/001_1P1140120s.jpg',
+    big: '/images/peintures/2013/001_1P1140120b.jpg',
+    description: '2013, technique mixte, 18 x 18 cm',
+  },
+  {
     image: '/images/peintures/2012/018_P1120424.jpg',
     thumb: '/images/peintures/2012/018_P1120424s.jpg',
     big: '/images/peintures/2012/018_P1120424b.jpg',
