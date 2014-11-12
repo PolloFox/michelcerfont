@@ -1,53 +1,5 @@
 var data = [
   {
-    image: '/images/peintures/2013/005_6P1140273.jpg',
-    thumb: '/images/peintures/2013/005_6P1140273s.jpg',
-    big: '/images/peintures/2013/005_6P1140273b.jpg',
-    description: '2013, technique mixte, 56 x 75 cm',
-  },
-  {
-    image: '/images/peintures/2013/004_5P1140258.jpg',
-    thumb: '/images/peintures/2013/004_5P1140258s.jpg',
-    big: '/images/peintures/2013/004_5P1140258b.jpg',
-    description: '2013, technique mixte, 43 x 42 x2,5 cm',
-  },
-  {
-    image: '/images/peintures/2013/003_3P1140135.jpg',
-    thumb: '/images/peintures/2013/003_3P1140135s.jpg',
-    big: '/images/peintures/2013/003_3P1140135b.jpg',
-    description: '2013, technique mixte, 18 x 18 cm',
-  },
-  {
-    image: '/images/peintures/2013/002_2P1140366.jpg',
-    thumb: '/images/peintures/2013/002_2P1140366s.jpg',
-    big: '/images/peintures/2013/002_2P1140366b.jpg',
-    description: '2013, technique mixte, 18 x 18 cm',
-  },
-  {
-    image: '/images/peintures/2013/001_1P1140120.jpg',
-    thumb: '/images/peintures/2013/001_1P1140120s.jpg',
-    big: '/images/peintures/2013/001_1P1140120b.jpg',
-    description: '2013, technique mixte, 18 x 18 cm',
-  },
-   {
-    image: '/images/peintures/2012/003_P1100130.jpg',
-    thumb: '/images/peintures/2012/003_P1100130s.jpg',
-    big: '/images/peintures/2012/003_P1100130b.jpg',
-    description: '2012, technique mixte, 43 x 43 x 2,5 cm',
-  },
-  {
-    image: '/images/peintures/2012/002_P1100126.jpg',
-    thumb: '/images/peintures/2012/002_P1100126s.jpg',
-    big: '/images/peintures/2012/002_P1100126b.jpg',
-    description: '2012, technique mixte, diam&egrave;tre 45 x 2 cm',
-  },
-  {
-    image: '/images/peintures/2012/001_P1100124.jpg',
-    thumb: '/images/peintures/2012/001_P1100124s.jpg',
-    big: '/images/peintures/2012/001_P1100124b.jpg',
-    description: '2012, technique mixte, 42 x 44 x 2 cm',
-  },
- {
     image: '/images/dessins/2011/001_P1090364.jpg',
     thumb: '/images/dessins/2011/001_P1090364s.jpg',
     big: '/images/dessins/2011/001_P1090364b.jpg',
